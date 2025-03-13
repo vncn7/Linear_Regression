@@ -1,1 +1,2 @@
 # Linear_Regression
+This dataset contains daily bicycle counts recorded at Seattle's Fremont Bridge, along with weather, seasonal, and other contextual data. The dataset includes the number of cyclists crossing the bridge each day and various associated factors. We apply simple linear regression to analyze how weather conditions and other variables influence bicycle traffic, estimating the impact of each parameter on daily rider counts.
